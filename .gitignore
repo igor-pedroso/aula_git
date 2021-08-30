@@ -1,0 +1,8 @@
+# Ignorar por nome do arquivo
+changelog.txt
+
+# Ignorar pela extensão
+*.log
+
+# Ignorar uma pasta
+logs/
